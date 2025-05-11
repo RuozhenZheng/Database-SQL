@@ -56,4 +56,5 @@ SELECT * FROM emp_info ORDER BY age ASC;
 通过该项目，掌握了 MySQL 数据库设计、SQL 增删改查操作、PHP 后端开发与前端交互等技能，为后续数据分析与数据库应用开发打下坚实基础。
 
 ---
-📄 [点击查看项目说明文档（PDF）](https://github.com/RuozhenZheng/Database-SQL/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93%26SQL%E9%A1%B9%E7%9B%AE%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A.pdf)
+📄 [点击查看项目说明文档（PDF）](./数据库&SQL项目实验报告.pdf)
+
